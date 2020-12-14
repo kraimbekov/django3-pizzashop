@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a59a458-ae05-4077-b3b5-f5cbbc4c2389" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j9bR3J0z7Hi40BzKghFz3aKtAF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kana\Desktop\pizzashopproject\pizzashopapp\static\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="pizzashopproject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="pizzashopproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a59a458-ae05-4077-b3b5-f5cbbc4c2389" name="Default Changelist" comment="" />
+      <created>1603219242606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603219242606</updated>
+      <workItem from="1603219245219" duration="452000" />
+      <workItem from="1603219710860" duration="814000" />
+      <workItem from="1603297435039" duration="8869000" />
+      <workItem from="1603387252269" duration="3955000" />
+      <workItem from="1603640923545" duration="4347000" />
+      <workItem from="1603730475264" duration="2116000" />
+      <workItem from="1603814307411" duration="600000" />
+      <workItem from="1603990207573" duration="1111000" />
+      <workItem from="1604125756668" duration="1801000" />
+      <workItem from="1604338744568" duration="2027000" />
+      <workItem from="1604422539152" duration="604000" />
+      <workItem from="1604505984309" duration="4645000" />
+      <workItem from="1604597353733" duration="6370000" />
+      <workItem from="1604762640340" duration="4704000" />
+      <workItem from="1604770173962" duration="1257000" />
+      <workItem from="1605023174037" duration="4294000" />
+      <workItem from="1605027995538" duration="1440000" />
+      <workItem from="1605109502766" duration="5431000" />
+      <workItem from="1605119244627" duration="24000" />
+      <workItem from="1605431539679" duration="4302000" />
+      <workItem from="1605716834704" duration="3416000" />
+      <workItem from="1605971506363" duration="6595000" />
+      <workItem from="1606038176408" duration="1802000" />
+      <workItem from="1606232578228" duration="4685000" />
+      <workItem from="1606549928774" duration="1432000" />
+      <workItem from="1606572473611" duration="1545000" />
+      <workItem from="1606635419451" duration="599000" />
+      <workItem from="1606640905897" duration="3169000" />
+      <workItem from="1606834357695" duration="8214000" />
+      <workItem from="1606899579344" duration="8543000" />
+      <workItem from="1606985441426" duration="5999000" />
+      <workItem from="1607014557741" duration="1311000" />
+      <workItem from="1607191118826" duration="1301000" />
+      <workItem from="1607241537978" duration="2322000" />
+      <workItem from="1607262615032" duration="4326000" />
+      <workItem from="1607361570348" duration="1126000" />
+      <workItem from="1607363671252" duration="108000" />
+      <workItem from="1607963050359" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
