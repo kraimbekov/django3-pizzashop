@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a59a458-ae05-4077-b3b5-f5cbbc4c2389" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pizzashopproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pizzashopproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizzashopapp/templates/pizzashop/sign_in.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizzashopapp/templates/pizzashop/sign_in.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +115,7 @@
       <workItem from="1607361570348" duration="1126000" />
       <workItem from="1607363671252" duration="108000" />
       <workItem from="1607963050359" duration="255000" />
-      <workItem from="1608397367901" duration="461000" />
+      <workItem from="1608397367901" duration="674000" />
     </task>
     <servers />
   </component>
