@@ -28,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'd)4!g)&xuexf(34!pr^r2#ue!fn0z6qo0ibiyeovw@_hnr^r^f'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['kanamadao.pythonanywhere.com']
 
@@ -137,4 +137,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 MEDIA_URL = '/media/'
 
 
-# Facebook configuration
+try:
+    from .local_settings import *
+except ImportError:
+    print('no local file.Its Prod')
